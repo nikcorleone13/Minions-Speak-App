@@ -54,8 +54,12 @@ footer{
     background-color: var(--primary-color);
     text-align: center;
     font-size: 1.4rem;
-
+    padding: 1rem;
 }
 h3{
-    padding: 2rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
