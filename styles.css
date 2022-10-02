@@ -1,0 +1,8 @@
+:root{
+--primary-color:#f5e050;
+
+}
+
+.heading {
+background-color: var(--primary-color);
+}
