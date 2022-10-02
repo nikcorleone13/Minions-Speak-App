@@ -2,7 +2,7 @@
 
 :root{
 --primary-color:#f5e050;
---secondary-color:#d68c03;
+--secondary-color:hsl(39, 100%, 50%);
 }
 
 *{
